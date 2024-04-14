@@ -1,2 +1,2 @@
-# oasis-task3-temperature-converter
-oasis task3:temperature converter
+# OIBSIP-L1-TASK3
+Temperature Converter
